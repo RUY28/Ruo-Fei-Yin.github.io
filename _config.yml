@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "IMG_9456.png"
   name             : "RuoFei Yin"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Pittsburgh"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
