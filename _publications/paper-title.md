@@ -8,7 +8,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ### Methodology paper
 
-**RuoFei Yin**, George C. Tseng. (2025) Response to the Commentary on “Experimental Design and Power Calculation in Omics Circadian Rhythmicity Detection Using the Cosinor Model”. *Statistics in Medicine*. 
+**RuoFei Yin**, George C. Tseng. (2025) Response to the Commentary on “Experimental Design and Power Calculation in Omics Circadian Rhythmicity Detection Using the Cosinor Model”. *Statistics in Medicine*.
 
 
 ### Application paper
