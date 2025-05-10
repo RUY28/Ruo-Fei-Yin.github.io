@@ -1,20 +1,15 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Pittsburgh, Biostatistics"
+date: 2024-09-01
+location: "Pittsburgh, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course name: Statistical Estimation Theory
 
-Heading 1
-======
+Responsibility: grading
 
-Heading 2
-======
-
-Heading 3
-======
+The course introduces statistical methods for point estimation, with a focus on properties of maximum likelihood estimators and Fisher's information.  The second part of the course includes hypothesis testing, with a focus on the Wald test, Score test, and likelihood ratio test.  The third part of the course introduces a large sample theory of statistics including convergence in probability, convergence in distribution, related theorems, and inequalities.
