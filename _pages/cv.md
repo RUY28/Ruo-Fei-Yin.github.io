@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, University of Pittsburgh, 2028 (expected)
+* M.S. in Biostatistics, University of Pittsburgh, 2021-2023
+* B.S. in Biomedical Engineering, Tianjin Medical University, 2017-2021
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May,2022-May,2024: PhD thesis
+  * Biostatistics, University of Pittsburgh
+  * Developed statistical models to remove technical artifacts from downstream analyses while preserving biological heterogeneity in bulk RNA-seq data
+  * Supervisor: Dr. George C. Tseng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May,2022-May,2023: Research Assistant
+  * Biostatistics, University of Pittsburgh
+  * Developed different opioid use disorder (OUD) risk prediction machine learning models among the Center of Excellence(COE) enrollees
+  * Supervisor: Dr. Lu Tang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan,2021-Jun,2021: Research Assistant
+  * Biomedical Engineering, Tianjin Medical University
+  * Divided EEG signals, predicted seizures and evaluate the effectiveness of prediction
+  * Supervisor: Dr. Liu Ting
+    
+* July,2019-Oct,2020: Research Assistant
+  * Health Administration, Tianjin Medical University
+  * Evaluated the effect of human resource bricolage on the rescue capability of emergency medical team
+  * Supervisor: Dr. Yue Du
+    
+* Jun,2018-Sep,2020: Research Assistant
+  * Epidemiology and Biostatistics, Tianjin Medical University
+  * Evaluated association between cognitive function and blood lipid levels
+  * Supervisor: Dr. Fei Ma
+ 
+    
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis: R, Python, Matlab
+* Programming: Linux, shell, git
+* Language: English, Mandarin
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
