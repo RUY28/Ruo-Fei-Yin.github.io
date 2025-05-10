@@ -8,13 +8,10 @@ date: 2022-07-01
 location: "Pittsburgh, US"
 ---
 
-institute for clinical research education (icre) course. This course focuses on basic concepts and statistical methods and their application to problems in the health and biomedical sciences. Topics include data description and summarization, basic probability theory, estimation, and hypothesis testing with emphasis on one- and two-sample comparisons involving continuous and categorical data. Linear regression and analysis of variance will be introduced. Trainees will develop their analytic skills through the analysis and discussion of large clinical studies.
+Course name: Institute for clinical research education (icre) course
 
-Heading 1
-======
+Responsibility: grading, holding lab and review session, holding office hour
 
-Heading 2
-======
+This course focuses on basic concepts and statistical methods and their application to problems in the health and biomedical sciences. Topics include data description and summarization, basic probability theory, estimation, and hypothesis testing with emphasis on one- and two-sample comparisons involving continuous and categorical data. Linear regression and analysis of variance will be introduced. Trainees will develop their analytic skills through the analysis and discussion of large clinical studies.
 
-Heading 3
-======
+
