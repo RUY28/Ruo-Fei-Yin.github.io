@@ -11,8 +11,11 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
+
+  - title: "Internship"
+    url: /internship/
     
   - title: "CV"
     url: /cv/
